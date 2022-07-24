@@ -1,4 +1,4 @@
-df=read.csv('C:/Users/ASUSPRO/Desktop/Data Science/Section 5/googleplaystore3-1.csv',header = T,stringsAsFactors = F)
+df=read.csv('C:/googleplaystore3-1.csv',header = T,stringsAsFactors = F)
 head(df)
 summary(df)
 structure(df)
